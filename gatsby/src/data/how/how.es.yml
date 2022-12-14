@@ -1,0 +1,38 @@
+page: como
+language: es
+title: Como hacer el Censo
+intro: |-
+  ¡Ya puede responder el Censo 2020! 9 preguntas en 9 minutos.
+
+  Para el 12 de marzo, su hogar puede llenar el Censo de tres maneras. 
+
+  ¿Preguntas? Llame al [2-1-1](tel:211).
+options:
+  - icon: mdiLaptopWindows
+    label: En línea
+    text: >-
+      Por primera vez, el formulario del Censo estará disponible para llenarlo
+      por Internet en 13 idiomas.
+
+
+      Visite [www.My2020Census.gov](www.My2020Census.gov). 
+
+
+      Preguntas? Call [2-1-1](tel:211).
+  - icon: mdiPhone
+    label: Por teléfono
+    text: >-
+      Llame al [844-468-2020](tel:844-468-2020).
+
+
+      Se puede completar el Censo por teléfono en 13 idiomas incluyendo el
+      dispositivo de telecomunicaciones para sordos.
+
+
+      Preguntas? Llame al [2-1-1](tel:211).
+  - icon: mdiStar
+    label: Por correo
+    text: >-
+      El formulario del Censo en papel se enviará desde la Oficina del Censo de
+      los EE.UU. Estará disponible en inglés y español y se puede enviar lleno
+      de regreso a la Oficina del Censo de EE.UU.

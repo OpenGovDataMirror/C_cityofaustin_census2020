@@ -1,0 +1,36 @@
+page: how
+language: en
+title: How To Complete the Census
+intro: |-
+  You can now respond to the Census! 9 Questions in 9 Minutes.
+
+  As of March 12th, your home can fill out the Census in three ways. 
+
+  Questions? Call [2-1-1](tel:211).
+options:
+  - icon: mdiLaptopWindows
+    label: Online
+    text: >-
+      For the first time, the Census form will be available to complete online
+      in 13 languages.
+
+
+      Visit [www.My2020Census.gov](www.my2020census.gov). 
+
+
+      Questions? Call [211](tel:2-1-1).
+  - icon: mdiPhone
+    label: By Phone
+    text: >-
+      Call [844-330-2020](tel:844-330-2020). 
+
+      The Census can be completed by phone in 13 languages including
+      Telecommunication Device for the Deaf.
+
+      Questions? Call [211](tel:2-1-1).
+  - icon: mdiStar
+    label: By Mail
+    text: >-
+      The paper Census form will be mailed from the U.S. Census Bureau. It will
+      be available in English and Spanish and can be mailed back to the U.S.
+      Census Bureau.

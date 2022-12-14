@@ -1,0 +1,23 @@
+page: why_vt
+language: vt
+title: Why the Census Matters
+intro: >-
+  A lot is at stake in the 2020 Census, and our communities can't afford an undercount. Essential neighborhood resources like street improvements, school lunches for children in need, and housing for seniors and families will all be gained or lost because of the 2020 Census.
+sections:
+  - component: Text
+    title: Why it matters here at home
+    text: ""
+  - component: Text
+    title: Did you know?
+    text: ""
+  - component: Text
+    title: What's at risk?
+    text: ""
+  - component: Text
+    title: Your responses are safe and confidential
+    text: ""
+  - component: MapCta
+    title: Historically Undercounted Communities in Austin and Travis County
+    text: ""
+  - component: FAQ
+    title: FAQ

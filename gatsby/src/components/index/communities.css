@@ -1,0 +1,12 @@
+.Communities--textStyles {
+  position: absolute;
+  top: 25%;
+  text-align: center;
+}
+
+.Communities--imageStyles {
+  opacity: 0.3;
+}
+.Communities--imageStyles:hover {
+  opacity: 0.8;
+}

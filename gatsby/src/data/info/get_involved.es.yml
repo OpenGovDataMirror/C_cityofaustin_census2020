@@ -1,0 +1,84 @@
+page: participe
+language: es
+title: ¡Participe y hágase contar!
+intro: >-
+  Nuestra meta es lograr un conteo total y completo de todas las personas que
+  viven en Texas. Por favor riegue la voz, ¡y asegúrese de que usted, su
+  familia, vecinos y amigos sean contados!
+sections:
+  - component: EmailCollection
+    title: Email Form
+  - component: BasicTitleText
+    cta: Materiales de Promoción
+    cta_link: >-
+      https://drive.google.com/drive/folders/1mtQH6QqWkg0t8AWAcF1hVwiyJHAqT1yE?usp=sharing
+    text: >-
+      <div class="grid-row">
+
+      <a class="grid-col-6 padding-right-2"
+      href="https://drive.google.com/file/d/1AkAKewTqOSDLylYUSawcN9xoUhW1K-OZ/view"
+      target="_blank">
+        <img src="/img/postcard-en.png" />
+      </a>
+
+      <a class="grid-col-6 padding-left-2"
+      href="https://drive.google.com/file/d/1AkAKewTqOSDLylYUSawcN9xoUhW1K-OZ/view"
+      target="_blank">
+        <img src="/img/postcard-es.png" />
+      </a> </div>
+    title: Recursos
+  - component: NewsAndEvents
+    title: Recent News and Events
+  - component: BasicTitleText
+    text: >-
+      **<a href="https://aaul.org/make-black-count">Grupo comunitario negro y
+      afroamericano</a>**
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/3TGbIiXwj7g" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+
+
+      **<a href="https://www.facebook.com/ContamosATX">Grupo comunitario
+      hispano/latino</a>**
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/IhVhfxna_JY" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+
+
+      **<a href="https://www.aaccc-atx.org/">Grupo comunitario
+      asiático-americano</a>**
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/uvEHinA97Ic" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+
+      **<a href="https://queerthecensusatx.org/">Grupo comunitario LGBTQ+</a>**
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/tv3SJd_tREY" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+    title: Grupo Comunitario PSAs
+  - component: BasicTitleText
+    text: "### Podcasts\n[\U0001F508 Eschucha: Austin/Travis County Census 2020 Podcast Ep. 1](http://atxpodcasts.com/2020/04/15/ep-1-introducing-the-austin-travis-co-2020-census-black-hispanic-complete-count-committees/)\n### Video\nFB Live - ¿Tienes preguntas sobre el Censo? Expertos hablan sobre este tema y aclaran dudas.\n<iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Funivision62%2Fvideos%2F1882590852039927%2F&show_text=0&width=560\" width=\"560\" height=\"315\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allowFullScreen=\"true\"></iframe>"
+    title: Recuros de los Grupos Comunitarios
+  - component: Communities
+    text: >-
+      Austin and Travis County are coming together to ensure that everyone in
+      our communities are counted in the 2020 Census! The Census uplifts the
+      voices of our families, friends and neighbors across the State. The power
+      to shape our future is in our hands. Shoutouts to partners here?
+
+      This spring, we have the power to shape the future of our state and our
+      country by participating in the 2020 Census. This is our chance to uplift
+      our communities and we must work together to ensure everyone is counted.
+      Texas is stronger with a complete count.
+    title: Stand up and be counted in the 2020 Census
